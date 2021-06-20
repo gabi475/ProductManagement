@@ -12,3 +12,17 @@ C:\Users\Gabi\Documents\Udemy\ProductsManagement\Business\obj\Debug\netcoreapp3.
 C:\Users\Gabi\Documents\Udemy\ProductsManagement\Business\obj\Debug\netcoreapp3.1\Business.pdb
 C:\Users\Gabi\Documents\Udemy\ProductsManagement\Business\bin\Debug\netcoreapp3.1\Common.dll
 C:\Users\Gabi\Documents\Udemy\ProductsManagement\Business\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Business\obj\Debug\netcoreapp3.1\Business.pdb

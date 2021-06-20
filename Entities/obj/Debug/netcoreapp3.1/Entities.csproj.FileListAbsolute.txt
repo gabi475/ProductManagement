@@ -10,3 +10,15 @@ C:\Users\Gabi\Documents\Udemy\ProductsManagement\Entities\obj\Debug\netcoreapp3.
 C:\Users\Gabi\Documents\Udemy\ProductsManagement\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
 C:\Users\Gabi\Documents\Udemy\ProductsManagement\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
 C:\Users\Gabi\Documents\Udemy\ProductsManagement\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Gabi\Documents\Udemy\ProductManagement\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
