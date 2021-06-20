@@ -33,6 +33,7 @@ namespace ProductsManagement.Controllers
         public IActionResult Create([FromBody] Order order)
         {
             var x = 50;
+            var y = 20;
             var result = _orderService.Create(order);
             return Ok(result);
         }
