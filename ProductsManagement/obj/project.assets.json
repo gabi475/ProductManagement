@@ -5841,11 +5841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\ProductsManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\ProductsManagement.csproj",
       "projectName": "ProductsManagement",
-      "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\ProductsManagement.csproj",
+      "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\ProductsManagement.csproj",
       "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\obj\\",
+      "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5869,11 +5869,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\Business.csproj"
+            "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\Business.csproj"
             },
-            "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj"
+            "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj"
             }
           }
         }

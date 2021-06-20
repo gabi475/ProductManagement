@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iik7s0gNuWEe9zafpydAVxDfobAhziBzZxSXO0vYlmdGFKIATK5AGDBz0z59TlvGW2bn5SwaNbdro7BtHw5BIg==",
+  "dgSpecHash": "qchAXWVd6W11l8hVX7tjNlsd5fYJmgqsOc65q++IOHYGiap5XuephXW6rEF5RF2wOfhcivViPfNxCJIxmZtpMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gabi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

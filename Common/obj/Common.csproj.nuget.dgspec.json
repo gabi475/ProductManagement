@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj": {}
+    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj": {
+    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\obj\\",
+        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

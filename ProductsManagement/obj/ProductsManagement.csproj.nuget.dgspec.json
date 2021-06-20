@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\ProductsManagement.csproj": {}
+    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\ProductsManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\Business.csproj": {
+    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,11 +35,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj"
+              "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj"
               },
-              "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj"
+              "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj": {
+    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\obj\\",
+        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -133,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj": {
+    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -216,14 +216,14 @@
         }
       }
     },
-    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\ProductsManagement.csproj": {
+    "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\ProductsManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\ProductsManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\ProductsManagement.csproj",
         "projectName": "ProductsManagement",
-        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\ProductsManagement.csproj",
+        "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\ProductsManagement.csproj",
         "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\obj\\",
+        "outputPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -247,11 +247,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\Business.csproj"
+              "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\Business.csproj"
               },
-              "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Entities\\Entities.csproj"
+              "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Entities\\Entities.csproj"
               }
             }
           }

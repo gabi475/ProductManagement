@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nRaNLCkk8DFB+5dRdyyJYno4ge1Bd/gw1FXxTWHMPkbP9cQ8SoiAN+zM/T81N8q3VzAnbuffNfLGK+TUg0mZdQ==",
+  "dgSpecHash": "mPs3xuCRSpJsVYN2RG/nlLEmqh3RZ/IPpE5K1Hq+okWlrN0jnBvxP4AfLJp5wv7+Daq3ttnEIirfvdI/NtifsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\ProductsManagement\\ProductsManagement.csproj",
+  "projectFilePath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\ProductsManagement\\ProductsManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gabi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

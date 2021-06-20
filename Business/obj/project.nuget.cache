@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8rRjofR6GjKDjtRQg7+DPDzyuugXGd8gIrzQ9aftrZx/8Ak6Nfc3WwxTvUwSMSCa/5TsBm8M3jZrIzOtxuKAmA==",
+  "dgSpecHash": "Aclwp23DXXhae+1EH2BW7OZOoS6seFhoiE7FUuAF8ByRX3ZlRZpuUEKnSZEnQtbHSO7uX3j4D4e13ecwb7auKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Gabi\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3z4WWR0+E5l4h+VBpn6hOWrC+yk4hbl5j6AgXSSeU75bKX7FHyCpvOXLMq/J2GoZPqZwMoazlRtBk/jIrUdkNA==",
+  "dgSpecHash": "jD0VUW3YaNMoCgoPgXY4S8dN5gXhU4C9yrLjByWMTKz3kXH1/ecaTBVK4iZ3ZwqlrtAwF+3zDJzhcDH2NBDORA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductsManagement\\Common\\Common.csproj",
+  "projectFilePath": "C:\\Users\\Gabi\\Documents\\Udemy\\ProductManagement\\Common\\Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
