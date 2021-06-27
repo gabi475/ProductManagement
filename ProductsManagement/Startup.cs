@@ -34,6 +34,16 @@ namespace ProductsManagement
 
             services.AddTransient<IProductService, ProductService>();
             services.AddTransient<ICompanyService, CompanyService>();
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy(
+                    name: "AllowOrigin",
+                    builder =>
+                    {
+                        builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+                    });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

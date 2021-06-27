@@ -1,0 +1,18 @@
+<form>
+  <mat-form-field appearance="fill">
+    <mat-label>Company</mat-label>
+    <mat-select (selectionChange)="onCompanyChange($event)">
+      <mat-option *ngFor="let company of companies" [value]="company.id">
+        {{ company.name }}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-selection-list class="product-list">
+    <mat-list-option *ngFor="let product of products">
+      {{ product.name }}
+    </mat-list-option>
+  </mat-selection-list>
+</form>
+
+<button mat-button (click)="onAddCompanyClick()">Add dummy company</button>

@@ -30,7 +30,6 @@ namespace ProductsManagement.Controllers
         [HttpPost]
         public IActionResult Create([FromBody] User user)
         {
-            var z = 75;
             var result = _userService.Create(user);
             return Ok(result);
         }
