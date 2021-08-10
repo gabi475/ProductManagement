@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 
+import { CompanyService } from '../../shared/services/company.service';
+
 @Component({
   selector: 'app-companies',
   templateUrl: './companies.component.html',
@@ -10,14 +12,13 @@ export class CompaniesComponent implements OnInit {
   companies: any[] = [];
   products: any[] = [];
 
-  constructor(private http: HttpClient) {}
+  constructor(private companyService: CompanyService) {}
 
   ngOnInit(): void {
-    this.http
-      .get<any>('http://localhost:4000/api/company')
-      .subscribe((companies) => {
-        this.companies = companies;
-      });
+    this.companyService.getCompanies().subscribe((companies) => {
+      this.companies = companies;
+    });
+    
   }
 
   public onCompanyChange(e) {
@@ -26,13 +27,5 @@ export class CompaniesComponent implements OnInit {
     if (company !== undefined) {
       this.products = company.products;
     }
-  }
-
-  onAddCompanyClick() {
-    this.http
-      .post<any>('http://localhost:4000/api/company', { name: 'Dummy company' })
-      .subscribe((company) => {
-        console.log(company);
-      });
   }
 }

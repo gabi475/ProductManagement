@@ -9,9 +9,18 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSelectModule } from '@angular/material/select';
 import { MatButtonModule } from '@angular/material/button';
 import { MatListModule } from '@angular/material/list';
+import { FormsModule } from '@angular/forms';
+import { MatInputModule } from '@angular/material/input';
+import { AddEditCompanyComponent } from './components/add-edit-company/add-edit-company.component';
+import { HomeComponent } from './components/home/home.component';
 
 @NgModule({
-  declarations: [AppComponent, CompaniesComponent],
+  declarations: [
+    AppComponent,
+    CompaniesComponent,
+    AddEditCompanyComponent,
+    HomeComponent,
+  ],
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -20,6 +29,8 @@ import { MatListModule } from '@angular/material/list';
     MatButtonModule,
     MatSelectModule,
     MatListModule,
+    FormsModule,
+    MatInputModule,
   ],
   exports: [MatSelectModule],
   providers: [],

@@ -1,18 +1,26 @@
 <form>
-  <mat-form-field appearance="fill">
-    <mat-label>Company</mat-label>
-    <mat-select (selectionChange)="onCompanyChange($event)">
-      <mat-option *ngFor="let company of companies" [value]="company.id">
-        {{ company.name }}
-      </mat-option>
-    </mat-select>
-  </mat-form-field>
+    <mat-form-field appearance="fill">
+        <mat-label>Company</mat-label>
+        <mat-select (selectionChange)="onCompanyChange($event)">
+            <mat-option *ngFor="let company of companies" [value]="company.id">
+                {{ company.name }}
+            </mat-option>
+        </mat-select>
+    </mat-form-field>
 
-  <mat-selection-list class="product-list">
-    <mat-list-option *ngFor="let product of products">
-      {{ product.name }}
-    </mat-list-option>
-  </mat-selection-list>
+    <mat-selection-list class="product-list">
+        <mat-list-option *ngFor="let product of products">
+            {{ product.name }}
+        </mat-list-option>
+    </mat-selection-list>
+    <button mat-button routerLink="add">Add new company</button>
 </form>
 
-<button mat-button (click)="onAddCompanyClick()">Add dummy company</button>
+<!-- <label asp-for="Company.Name" class="control-label">Name</label>
+    <input type="text" [(ngModel)]="name" class="form-control" />
+    </section>
+
+    <div class="form-group">
+        <input type="submit" value="Add company " (click)="onAddCompanyClick()" class="btn btn-primary" />
+        <input type="button" value="Change company " (click)="onChangeCompany()" class="btn btn-primary" />
+    </div> -->

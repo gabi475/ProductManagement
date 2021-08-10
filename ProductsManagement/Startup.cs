@@ -54,6 +54,11 @@ namespace ProductsManagement
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors(x => x
+               .AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader());
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
