@@ -16,6 +16,10 @@ export class CompanyService {
   addCompany(company: Company): Observable<Company> {
     return this.http.post<Company>('http://localhost:4000/api/company', {
       name: company.name,
+      ceo: company.CEO,
+      location: company.location,
+      revenue: company.revenue,
+      employeesNumber: company.employeesNumber,
     });
   }
 }

@@ -20,7 +20,7 @@ namespace ProductsManagement.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Company> GetAll()
+        public IEnumerable<CompanyDetailDTO> GetAll()
         {
             return _companyService.GetAll();
 

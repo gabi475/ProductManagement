@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
-
 import { CompanyService } from '../../shared/services/company.service';
+import { Company } from '../../shared/models/company';
 
 @Component({
   selector: 'app-companies',
@@ -9,8 +9,16 @@ import { CompanyService } from '../../shared/services/company.service';
   styleUrls: ['./companies.component.css'],
 })
 export class CompaniesComponent implements OnInit {
-  companies: any[] = [];
+  companies: Company[] = [];
   products: any[] = [];
+
+  displayedColumns: string[] = [
+    'name',
+    'ceo',
+    'revenue',
+    'location',
+    'employeesNumber',
+  ];
 
   constructor(private companyService: CompanyService) {}
 
@@ -18,7 +26,6 @@ export class CompaniesComponent implements OnInit {
     this.companyService.getCompanies().subscribe((companies) => {
       this.companies = companies;
     });
-    
   }
 
   public onCompanyChange(e) {

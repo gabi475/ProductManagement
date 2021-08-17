@@ -1,15 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
-namespace Entities
+namespace Common
 {
-    public class Company
+    public class CompanyDetailDTO
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public Guid Id { get; set; }
         public string Name { get; set; }
 
@@ -19,9 +15,9 @@ namespace Entities
 
         public string CEO { get; set; }
 
-        public int EmployeesNumber { get; set; }   
+        public int EmployeesNumber { get; set; }
 
         public float Revenue { get; set; }
-        public IList<Product> Products { get; set; }
+        public IList<ProductDetailDTO> Products { get; set; }
     }
 }

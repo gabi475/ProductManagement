@@ -136,3 +136,6 @@ C:\Users\Gabi\Documents\Udemy\ProductManagement\ProductsManagement\obj\Debug\net
 C:\Users\Gabi\Documents\Udemy\ProductManagement\ProductsManagement\obj\Debug\netcoreapp3.1\ProductsManagement.dll
 C:\Users\Gabi\Documents\Udemy\ProductManagement\ProductsManagement\obj\Debug\netcoreapp3.1\ProductsManagement.pdb
 C:\Users\Gabi\Documents\Udemy\ProductManagement\ProductsManagement\obj\Debug\netcoreapp3.1\ProductsManagement.genruntimeconfig.cache
+C:\Users\Gabi\Documents\Udemy\ProductManagement\ProductsManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gabi\Documents\Udemy\ProductManagement\ProductsManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Gabi\Documents\Udemy\ProductManagement\ProductsManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

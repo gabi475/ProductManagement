@@ -13,6 +13,7 @@ import { FormsModule } from '@angular/forms';
 import { MatInputModule } from '@angular/material/input';
 import { AddEditCompanyComponent } from './components/add-edit-company/add-edit-company.component';
 import { HomeComponent } from './components/home/home.component';
+import { MatTableModule } from '@angular/material/table';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { HomeComponent } from './components/home/home.component';
     MatListModule,
     FormsModule,
     MatInputModule,
+    MatTableModule,
   ],
   exports: [MatSelectModule],
   providers: [],
